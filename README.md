@@ -1,5 +1,5 @@
 # individualMyYearTask
-my final assignment for the year.
+my final task for the year.
 
 Link to the website https://mmaksimm123.github.io/individualMyYearTask/
 
