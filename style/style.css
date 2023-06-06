@@ -120,6 +120,11 @@ header {
   font-size: 20px;
   line-height: 38px;
   color: #FFFFFF;
+  text-decoration: none;
+}
+
+.gotrieop__header:hover {
+  cursor: pointer;
 }
 
 .homeHeaderLink {
@@ -957,6 +962,11 @@ footer{
   font-size: 20px;
   line-height: 38px;
   color: #FF7C4E;
+  text-decoration: none;
+}
+
+.gotrieop__footer:hover {
+  cursor: pointer;
 }
 
 .homeFooterLink {
